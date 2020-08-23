@@ -1,4 +1,4 @@
-# Google Play Reviews
+# House Price Prediction
 
 -   Simple DecisionTreeRegressor Algorithm from predict house rates.
 
