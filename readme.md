@@ -1,6 +1,6 @@
 # House Price Prediction
 
--   Simple DecisionTreeRegressor Algorithm from predict house rates.
+-   Simple DecisionTreeRegressor Algorithm for predict house rates.
 
 ## Installation
 
