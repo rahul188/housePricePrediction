@@ -14,7 +14,7 @@ pip install pandas
 ## Usage
 
 ```bash
-Open .ipynb in your jupyter notebook
+Open .ipynb in your jupyter notebook.
 ```
 
 ## Contributing
