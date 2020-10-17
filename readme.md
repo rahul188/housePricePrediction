@@ -1,6 +1,6 @@
 # House Price Prediction
 
--   Simple DecisionTreeRegressor Algorithm for predict house rates.
+-  Simple DecisionTreeRegressor Algorithm for predict house rates.
 
 ## Installation
 
@@ -14,7 +14,7 @@ pip install pandas
 ## Usage
 
 ```bash
-Open .ipynb in your jupyter notebook
+Open .ipynb in your jupyter notebook.
 ```
 
 ## Contributing
